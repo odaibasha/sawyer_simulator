@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.8
 
 # Copyright (c) 2015-2018, Rethink Robotics Inc.
 #
